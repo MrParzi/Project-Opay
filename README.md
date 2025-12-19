@@ -12,15 +12,18 @@ This project is not affiliated with OPay. It is created strictly for educational
 📸 App Preview
 Home dashboard showing wallet balance, quick actions, services, and bottom navigation.
 
-Desktop size: <Img src="
+Desktop size: <Img src="lib/desktop-view.png" width="65%">
 <br>
 <br>
 <br>
-Mobile size: 
+<br>
+Mobile size: <Img src="lib/desktop-view.png" width="65%">
 <br>
 <br>
 <br>
-Tablet size: 
+<br>
+Tablet size: <Img src="lib/desktop-view.png" width="65%">
+<br>
 <br>
 <br>
 <br>
