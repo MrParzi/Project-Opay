@@ -17,12 +17,12 @@ Desktop size: <Img src="lib/desktop-view.png" width="65%">
 <br>
 <br>
 <br>
-Mobile size: <Img src="lib/desktop-view.png" width="65%">
+Mobile size: <Img src="lib/mobile-view.png" width="65%">
 <br>
 <br>
 <br>
 <br>
-Tablet size: <Img src="lib/desktop-view.png" width="65%">
+Tablet size: <Img src="lib/tablet-view.png" width="65%">
 <br>
 <br>
 <br>
